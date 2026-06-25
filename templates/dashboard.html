@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Student Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <h1>Welcome {{ username }}</h1>
+
+    <h2>🎓 Student Placement Dashboard</h2>
+    <a href="/upload_resume">
+    <button>Upload Resume</button>
+</a>
+    <a href="/applications">
+    <button>My Applications</button>
+</a>
+
+    <hr>
+
+    <h3>Available Internships</h3>
+
+    <div>
+        <h4>Frontend Developer Intern</h4>
+        <p>Company: Infosys</p>
+        <a href="/apply/Frontend Developer Intern">
+    <button>Apply</button>
+</a>
+    </div>
+
+    <br>
+
+    <div>
+        <h4>Python Developer Intern</h4>
+        <p>Company: TCS</p>
+        <a href="/apply/Python Developer Intern">
+    <button>Apply</button>
+</a>
+    </div>
+
+    <br>
+
+    <div>
+        <h4>Data Analyst Intern</h4>
+        <p>Company: Deloitte</p>
+        <a href="/apply/Data Analyst Intern">
+    <button>Apply</button>
+</a>
+    </div>
+
+    <br><br>
+
+    <a href="/logout">
+    <button>Logout</button>
+</a>
+
+</body>
+
+</html>

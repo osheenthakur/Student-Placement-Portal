@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Dashboard</title>
+</head>
+<body>
+
+<h1>Admin Dashboard</h1>
+
+<h2>Registered Students</h2>
+
+<ul>
+{% for student in students %}
+<li>
+{{ student[1] }} - {{ student[2] }}
+</li>
+{% endfor %}
+</ul>
+
+<h2>Applications</h2>
+
+<ul>
+{% for application in applications %}
+
+<li>
+
+{{ application[1] }}
+applied for
+{{ application[2] }}
+
+|
+
+Status:
+{{ application[3] }}
+
+|
+
+<a href="/approve/{{ application[0] }}">
+<button>Approve</button>
+</a>
+
+<a href="/reject/{{ application[0] }}">
+<button>Reject</button>
+</a>
+
+</li>
+
+<br>
+
+{% endfor %}
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Applications</title>
+</head>
+
+<body>
+
+<h1>📋 My Applications</h1>
+
+<ul>
+
+{% for job in jobs %}
+
+<li>
+
+Job:
+{{ job[0] }}
+
+|
+
+Status:
+{{ job[1] }}
+
+</li>
+
+<br>
+
+{% endfor %}
+
+</ul>
+
+</body>
+
+</html>
