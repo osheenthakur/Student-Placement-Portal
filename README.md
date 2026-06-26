@@ -110,9 +110,72 @@ Student-Placement-Portal
 * User Session Management
 
 ---
+---
+
+# 📸 Project Screenshots
+
+## 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+## 📝 Registration Page
+
+![Registration Page](screenshots/register.png)
+
+---
+
+## 🎓 Student Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 📋 My Applications
+
+![My Applications](screenshots/applications.png)
+
+---
+
+## 📄 Resume Upload
+
+![Resume Upload](screenshots/resume-upload.png)
+
+---
+
+## 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
+# ⭐ Why This Project?
+
+This project demonstrates core full-stack web development concepts including:
+
+* User Authentication
+* Database Integration with SQLite
+* File Upload Handling
+* CRUD Operations
+* Admin Dashboard
+* Application Approval Workflow
+* Responsive UI using HTML & CSS
+* Flask Backend Development
+
+---
+
+## 🤝 Contributions
+
+Suggestions and improvements are welcome. Feel free to fork this repository and submit a pull request.
+
+---
+
 
 ## 👩‍💻 Developer
 
 **Osheen Thakur**
+
+GitHub: https://github.com/osheenthakur
 
 B.Tech CSE Student | Python & Web Development Enthusiast
