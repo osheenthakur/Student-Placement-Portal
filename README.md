@@ -112,41 +112,49 @@ Student-Placement-Portal
 ---
 ---
 
-# 📸 Project Screenshots
+## 📸 Project Screenshots
 
-## 🏠 Home Page
-
-
-![Home](screenshots/home.png)
+### 🏠 Home Page
 
 
----
-
-## 🔐 Login Page
-
-
-![Login](screenshots/login.png)
+![Home Page](screenshots/home.png)
 
 
 ---
 
-## 📝 Registration Page
+### 🔐 Login Page
 
 
-![Register](screenshots/register.png)
-
-
----
-
-## 🎓 Student Dashboard
-
-
-![Dashboard](screenshots/dashboard.png)
+![Login Page](screenshots/login.png)
 
 
 ---
 
-## 📋 My Applications
+### 📝 Registration Page
+
+
+![Registration Page](screenshots/register.png)
+
+
+---
+
+### 🎓 Student Dashboard
+
+
+![Student Dashboard](screenshots/dashboard.png)
+
+
+---
+
+### 📊 Student Dashboard (Application Status)
+
+
+![Student Dashboard 2](screenshots/dashboard2.png)
+
+
+---
+
+### 📋 My Applications
 
 
 ![My Applications](screenshots/My%20application.png)
@@ -154,7 +162,7 @@ Student-Placement-Portal
 
 ---
 
-## 📄 Resume Upload
+### 📄 Resume Upload
 
 
 ![Resume Upload](screenshots/resume%20upload.png)
@@ -162,11 +170,10 @@ Student-Placement-Portal
 
 ---
 
-## 👨‍💼 Admin Dashboard
+### 👨‍💼 Admin Dashboard
 
 
-![Admin](screenshots/admin.png)
-
+![Admin Dashboard](screenshots/admin.png)
 
 
 
