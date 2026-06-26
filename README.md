@@ -114,39 +114,63 @@ Student-Placement-Portal
 
 # 📸 Project Screenshots
 
+## 🏠 Home Page
+
+```markdown
+![Home](screenshots/home.png)
+```
+
+---
+
 ## 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+```markdown
+![Login](screenshots/login.png)
+```
 
 ---
 
 ## 📝 Registration Page
 
-![Registration Page](screenshots/register.png)
+```markdown
+![Register](screenshots/register.png)
+```
 
 ---
 
 ## 🎓 Student Dashboard
 
+```markdown
 ![Dashboard](screenshots/dashboard.png)
+```
 
 ---
 
 ## 📋 My Applications
 
-![My Applications](screenshots/applications.png)
+```markdown
+![My Applications](screenshots/My%20application.png)
+```
 
 ---
 
 ## 📄 Resume Upload
 
-![Resume Upload](screenshots/resume-upload.png)
+```markdown
+![Resume Upload](screenshots/resume%20upload.png)
+```
 
 ---
 
 ## 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+```markdown
+![Admin](screenshots/admin.png)
+```
+
+
+
+
 
 ---
 
