@@ -209,4 +209,4 @@ Suggestions and improvements are welcome. Feel free to fork this repository and 
 
 GitHub: https://github.com/osheenthakur
 
-B.Tech CSE Student | Python & Web Development Enthusiast
+B.Tech CSE Student | Python & Web Development Enthusiast.
